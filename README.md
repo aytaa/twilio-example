@@ -10,7 +10,7 @@
 ## Kurulum
 
 Uygulamayı kullanmak için [Node.js](https://nodejs.org/)'i' bilgisayarınıza kurun.
-Yazımdan inceleyebilirsiniz.[Twilio Send Message](https://bit.ly/3mKRCX8)
+Yazımdan inceleyebilirsiniz.[Twilio Send Message](https://bit.ly/3mKRCX8).
 
 Install the dependencies and devDependencies and start the server.
 
